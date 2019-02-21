@@ -1,1 +1,17 @@
+header {
+    display:flex;
+    order:0;
+    flex-direction:column;
+}
+body {
+    display:flex;
+    order:1;
+    flex-direction:column;
+}
+footer {
+    display:flex;
+    align-items:flex-start;
+    order:100;
+    flex-direction:column;
+}
 

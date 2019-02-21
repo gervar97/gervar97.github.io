@@ -1,1 +1,27 @@
+h1 {
+    background-color: red;
+}
 
+h2 {
+    background-color: chartreuse
+}
+
+h3 {
+    background-color: bisque
+}
+
+ul {
+    background-color: azure;
+}
+
+section {
+    background-color: yellow;
+}
+
+ol {
+    background-color: brown
+}
+
+nav {
+    background-color: blueviolet
+}
